@@ -7,7 +7,7 @@
       "Wallet",
       "Tooling"
     ],
-    "status": "Live",
+    "status": "Testnet",
     "logoUrl": "https://0xio.xyz/favicon.ico",
     "link": "https://0xio.xyz",
     "twitter": "https://twitter.com/0xio_xyz"
@@ -20,7 +20,7 @@
       "Tooling",
       "Infrastructure"
     ],
-    "status": "Live",
+    "status": "Testnet",
     "logoUrl": "https://octrascan.io/favicon.ico",
     "link": "https://octrascan.io",
     "twitter": ""
@@ -33,7 +33,7 @@
       "Infrastructure",
       "Tooling"
     ],
-    "status": "Live",
+    "status": "Testnet",
     "logoUrl": "https://github.com/octra-labs.png",
     "link": "https://github.com/octra-labs",
     "twitter": "https://x.com/octralabs"
