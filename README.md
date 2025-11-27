@@ -95,6 +95,6 @@ Please select **1-3** categories that best describe your project:
 2.  **Manual Review:** The 0xio team will review the content to ensure it meets our quality standards and verify the project is legitimately building on Octra.
 3.  **Merge:** Once approved, your project will automatically appear on the ecosystem page within a few minutes.
 
-## ❓ Need Help?
+## Need Help?
 
 If you have questions or need assistance, please [open an issue](https://github.com/0xio-xyz/ecosystem/issues).
