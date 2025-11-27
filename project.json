@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "0xio",
+    "description": "The premier secure crypto wallet and SDK ecosystem for the Octra blockchain.",
+    "categories": [
+      "Wallet",
+      "Tooling"
+    ],
+    "status": "Live",
+    "logoUrl": "https://0xio.xyz/favicon.ico",
+    "link": "https://0xio.xyz",
+    "twitter": "https://twitter.com/0xio_xyz"
+  },
+  {
+    "id": 2,
+    "name": "OctraScan",
+    "description": "The leading block explorer and analytics platform for Octra Network.",
+    "categories": [
+      "Tooling",
+      "Infrastructure"
+    ],
+    "status": "Live",
+    "logoUrl": "https://octrascan.io/favicon.ico",
+    "link": "https://octrascan.io",
+    "twitter": ""
+  },
+  {
+    "id": 3,
+    "name": "Octra Labs",
+    "description": "Core contributors building FHE libraries, node infrastructure, and Hypergraphs.",
+    "categories": [
+      "Infrastructure",
+      "Tooling"
+    ],
+    "status": "Live",
+    "logoUrl": "https://github.com/octra-labs.png",
+    "link": "https://github.com/octra-labs",
+    "twitter": "https://x.com/octralabs"
+  }
+]

@@ -1,0 +1,21 @@
+name: Validate Projects JSON
+
+on:
+  pull_request:
+    paths:
+      - 'projects.json'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Validate JSON syntax
+        run: cat projects.json | jq empty
+
+      - name: Check for Duplicate IDs
+        run: |
+          # The -e flag ensures jq returns exit code 1 if the output is false
+          jq -e 'group_by(.id) | map(select(length > 1)) | length == 0' projects.json > /dev/null || (echo "Error: Duplicate IDs found" && exit 1)
