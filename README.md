@@ -74,8 +74,7 @@ Description: Briefly explain what your project is.
 | `categories` | `array` | **Yes** | Choose from the Allowed Categories list below. |
 | `status` | `string` | **Yes** | `Live`, `Testnet`, or `Dev`. |
 | `logoUrl` | `string` | **Yes** | Direct URL to a square PNG/SVG logo (min 256x256). **We recommend using [Pinata](https://pinata.cloud) (IPFS) for storage.** |
-| `color` | `string` | **Yes** | Hex code (e.g., `#FF00F5`) used for hover glow effects. |
-| `link` | `string` | No | The main URL for your dApp or website. |
+| `link` | `string` | Yes | The main URL for your dApp or website. |
 | `twitter` | `string` | Yes | Full URL to your X/Twitter profile. Set to "" or omit if not applicable. |
 
 ### Allowed Categories
