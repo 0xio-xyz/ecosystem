@@ -43,15 +43,15 @@ Example:
     {
       "id": 10,
       "name": "My Octra dApp",
-      "description": "A brief, high-impact description of what your project does and how it uses FHE on Octra.",
+      "description": "A brief, high-impact description of what your project does.",
       "categories": [
         "DeFi",
         "Privacy"
       ],
       "status": "Testnet",
-      "logoUrl": "[https://gateway.pinata.cloud/ipfs/QmYourImageHash](https://gateway.pinata.cloud/ipfs/QmYourImageHash)...",
-      "link": "[https://my-octra-dapp.xyz](https://my-octra-dapp.xyz)",
-      "twitter": "[https://twitter.com/myoctradapp](https://twitter.com/myoctradapp)"
+      "logoUrl": "https://gateway.pinata.cloud/ipfs/YourImageHash",
+      "link": "https://my-octra-dapp.xyz",
+      "twitter": "https://twitter.com/myoctradapp"
     }
   ]
 ```
