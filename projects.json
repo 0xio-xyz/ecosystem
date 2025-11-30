@@ -37,5 +37,18 @@
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/Octra.png",
     "link": "https://github.com/octra-labs",
     "twitter": "https://x.com/octralabs"
+  },
+    {
+    "id": 4,
+    "name": "Octra Wallet CLI Tool",
+    "description": "Python CLI tool to generate Octra wallet data from seed phrase (mnemonic).",
+    "categories": [
+      "Tooling"
+    ],
+    "status": "Testnet",
+    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafkreidl6opoiyyqonwbo2oc4o4svqygwzalkke675rfheo6xvkwjzfjce",
+    "link": "https://github.com/m-tq/Octra-Tools",
+    "twitter": ""
   }
+  
 ]
