@@ -53,7 +53,7 @@
     {
     "id": 5,
     "name": "0xio Recovery Tool",
-    "description": "Recover your 0xio wallet from a 12-word seed phrase. Supports master key and custom derivation paths (BIP39/SLIP-0010). 100% client-side, offline-capable.",
+    "description": "Recover your Octra wallet Address & Private Key (Base64) from a 12-word seed phrase. Supports master key and custom derivation paths (BIP39/SLIP-0010). 100% client-side, offline-capable.",
     "categories": [
       "Tooling"
     ],
