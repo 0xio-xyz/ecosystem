@@ -23,7 +23,7 @@
     "status": "Testnet",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/octrascan.png",
     "link": "https://octrascan.io",
-    "twitter": ""
+    "twitter": "https://x.com/octrascan"
   },
   {
     "id": 3,
@@ -38,17 +38,29 @@
     "link": "https://github.com/octra-labs",
     "twitter": "https://x.com/octralabs"
   },
-    {
+  {
     "id": 4,
     "name": "Octra Wallet CLI Tool",
     "description": "Python CLI tool to generate Octra wallet data from seed phrase (mnemonic).",
     "categories": [
       "Tooling"
     ],
-    "status": "Testnet",
+    "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafkreidl6opoiyyqonwbo2oc4o4svqygwzalkke675rfheo6xvkwjzfjce",
     "link": "https://github.com/m-tq/Octra-Tools",
     "twitter": ""
+  },
+    {
+    "id": 5,
+    "name": "0xio Recovery Tool",
+    "description": "Recover your 0xio wallet from a 12-word seed phrase. Supports master key and custom derivation paths (BIP39/SLIP-0010). 100% client-side, offline-capable.",
+    "categories": [
+      "Tooling"
+    ],
+    "status": "Live",
+    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "link": "https://0xgery.github.io/Recovery-tools/",
+    "twitter": "https://twitter.com/0xio_xyz"
   }
   
 ]
