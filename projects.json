@@ -61,6 +61,15 @@
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://0xio-xyz.github.io/Recovery-tools/",
     "twitter": "https://twitter.com/0xio_xyz"
+  },
+  {
+    "id": 6,
+    "name": "0xio_bot",
+    "description": "A modern, minimalist Telegram bot for tracking Octra Network transactions.",
+    "categories": ["Tooling"],
+    "status": "Live",
+    "logoUrl": "",
+    "link": "https://t.me/NullXio_bot",
+    "twitter": "https://twitter.com/0xio_xyz"
   }
-  
 ]
