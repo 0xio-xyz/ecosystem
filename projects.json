@@ -50,7 +50,7 @@
     "link": "https://github.com/m-tq/Octra-Tools",
     "twitter": ""
   },
-    {
+  {
     "id": 5,
     "name": "0xio Recovery Tool",
     "description": "Recover your Octra wallet Address & Private Key (Base64) from a 12-word seed phrase. Supports master key and custom derivation paths (BIP39/SLIP-0010). 100% client-side, offline-capable.",
@@ -66,7 +66,9 @@
     "id": 6,
     "name": "0xio_bot",
     "description": "A modern, minimalist Telegram bot for tracking Octra Network transactions.",
-    "categories": ["Tooling"],
+    "categories": [
+      "Tooling"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://t.me/NullXio_bot",
@@ -76,7 +78,10 @@
     "id": 7,
     "name": "0xio Mobile App",
     "description": "Manage your assets on-the-go. Secure, fast, and iOS/Android ready.",
-    "categories": ["Wallet", "DEFI"],
+    "categories": [
+      "Wallet",
+      "DEFI"
+    ],
     "status": "Upcoming",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://0xio.xyz/waitlist",
@@ -86,7 +91,9 @@
     "id": 8,
     "name": "0xio SDK",
     "description": "Seamlessly integrate 0xio into your dApp with our powerful SDK.",
-    "categories": ["Tooling"],
+    "categories": [
+      "Tooling"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://www.npmjs.com/package/@0xgery/0xio-sdk",
@@ -96,10 +103,25 @@
     "id": 9,
     "name": "0xio DEX",
     "description": "Swap public and private assets on our native decentralized exchange.",
-    "categories": ["DEFI"],
+    "categories": [
+      "DEFI"
+    ],
     "status": "Upcoming",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "",
+    "twitter": "https://twitter.com/0xio_xyz"
+  },
+  {
+    "id": 10,
+    "name": "Atlas",
+    "description": "High-performance network visualization and analytics platform for Octra Network.",
+    "categories": [
+      "Tooling",
+      "Infrastructure"
+    ],
+    "status": "Live",
+    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "link": "https://atlas.0xio.xyz",
     "twitter": "https://twitter.com/0xio_xyz"
   }
 ]
