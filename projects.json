@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "publisher":"0xio Labs",
     "name": "0xio Wallet Extensions",
     "description": "The premier secure crypto wallet for the Octra Network.",
     "categories": [
@@ -13,7 +14,8 @@
     "twitter": "https://twitter.com/0xio_xyz"
   },
   {
-    "id": 2,
+    "id": 2, 
+    "publisher":"Octrascan",
     "name": "OctraScan",
     "description": "The leading block explorer and analytics platform for Octra Network.",
     "categories": [
@@ -27,6 +29,7 @@
   },
   {
     "id": 3,
+    "publisher":"Octra Labs",
     "name": "Octra Labs",
     "description": "Core contributors building FHE libraries, node infrastructure, and Hypergraphs.",
     "categories": [
@@ -40,6 +43,7 @@
   },
   {
     "id": 4,
+    "publisher":"m-tq",
     "name": "Octra Wallet CLI Tool",
     "description": "Python CLI tool to generate Octra wallet data from seed phrase (mnemonic).",
     "categories": [
@@ -52,6 +56,7 @@
   },
   {
     "id": 5,
+    "publisher":"0xio Labs",
     "name": "0xio Recovery Tool",
     "description": "Recover your Octra wallet Address & Private Key (Base64) from a 12-word seed phrase. Supports master key and custom derivation paths (BIP39/SLIP-0010). 100% client-side, offline-capable.",
     "categories": [
@@ -64,6 +69,7 @@
   },
   {
     "id": 6,
+    "publisher":"0xio Labs",
     "name": "0xio_bot",
     "description": "A modern, minimalist Telegram bot for tracking Octra Network transactions.",
     "categories": [
@@ -76,11 +82,12 @@
   },
   {
     "id": 7,
+    "publisher":"0xio Labs",
     "name": "0xio Mobile App",
     "description": "Manage your assets on-the-go. Secure, fast, and iOS/Android ready.",
     "categories": [
       "Wallet",
-      "DEFI"
+      "Infrastructure"
     ],
     "status": "Upcoming",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
@@ -89,6 +96,7 @@
   },
   {
     "id": 8,
+    "publisher":"0xio Labs",
     "name": "0xio SDK",
     "description": "Seamlessly integrate 0xio into your dApp with our powerful SDK.",
     "categories": [
@@ -101,23 +109,26 @@
   },
   {
     "id": 9,
+    "publisher":"0xio Labs",
     "name": "0xio DEX",
     "description": "Swap public and private assets on our native decentralized exchange.",
     "categories": [
-      "DEFI"
+      "Defi"
     ],
     "status": "Upcoming",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
-    "link": "",
+    "link": "https://dex.0xio.xyz",
     "twitter": "https://twitter.com/0xio_xyz"
   },
   {
     "id": 10,
+    "publisher":"0xio Labs",
     "name": "Atlas",
     "description": "High-performance network visualization and analytics platform for Octra Network.",
     "categories": [
       "Tooling",
-      "Infrastructure"
+      "Infrastructure",
+      "Defi"
     ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
