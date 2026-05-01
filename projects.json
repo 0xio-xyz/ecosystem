@@ -4,7 +4,10 @@
     "publisher": "0xio Labs",
     "name": "0xio Wallet Extension",
     "description": "The premier secure crypto wallet for the Octra Network. FHE privacy, multi-wallet, NFT support, 5 languages.",
-    "categories": ["Wallet", "Tooling"],
+    "categories": [
+      "Wallet",
+      "Tooling"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://chromewebstore.google.com/detail/0xio-wallet/anknhjilldkeelailocijnfibefmepcc",
@@ -15,7 +18,10 @@
     "publisher": "Octrascan",
     "name": "OctraScan",
     "description": "The leading block explorer and analytics platform for Octra Network.",
-    "categories": ["Tooling", "Infrastructure"],
+    "categories": [
+      "Tooling",
+      "Infrastructure"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/octrascan.png",
     "link": "https://octrascan.io",
@@ -26,7 +32,10 @@
     "publisher": "Octra Labs",
     "name": "Octra Labs",
     "description": "Core contributors building FHE libraries, node infrastructure, and Hypergraphs.",
-    "categories": ["Infrastructure", "Tooling"],
+    "categories": [
+      "Infrastructure",
+      "Tooling"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/Octra.png",
     "link": "https://github.com/octra-labs",
@@ -34,112 +43,134 @@
   },
   {
     "id": 4,
-    "publisher": "m-tq",
-    "name": "Octra Wallet CLI Tool",
-    "description": "Python CLI tool to generate Octra wallet data from seed phrase (mnemonic).",
-    "categories": ["Tooling"],
-    "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafkreidl6opoiyyqonwbo2oc4o4svqygwzalkke675rfheo6xvkwjzfjce",
-    "link": "https://github.com/m-tq/Octra-Tools",
-    "twitter": ""
-  },
-  {
-    "id": 5,
     "publisher": "0xio Labs",
     "name": "0xio Recovery Tool",
     "description": "Recover your Octra wallet Address & Private Key from a 12-word seed phrase. Supports master key and custom derivation paths. 100% client-side.",
-    "categories": ["Tooling"],
+    "categories": [
+      "Tooling"
+    ],
     "status": "Archived",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://github.com/0xio-xyz/Legacy/tree/main/Recovery-Tools",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
-    "id": 6,
+    "id": 5,
     "publisher": "0xio Labs",
     "name": "0xio Telegram Bot",
     "description": "Real-time Telegram bot for tracking Octra Network transactions and wallet activity.",
-    "categories": ["Tooling"],
+    "categories": [
+      "Tooling"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://t.me/NullXio_bot",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
-    "id": 7,
+    "id": 6,
     "publisher": "0xio Labs",
     "name": "0xio Mobile Wallet",
     "description": "Native iOS and Android wallet with FHE privacy, biometric security, push notifications, and dual-network history.",
-    "categories": ["Wallet"],
+    "categories": [
+      "Wallet"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://alpha.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
-    "id": 8,
+    "id": 7,
     "publisher": "0xio Labs",
     "name": "0xio SDK",
     "description": "TypeScript SDK for integrating dApps with 0xio Wallet. Transaction management, balance queries, contract interaction.",
-    "categories": ["Tooling"],
+    "categories": [
+      "Tooling"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://www.npmjs.com/package/@0xio/sdk",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
-    "id": 9,
+    "id": 8,
     "publisher": "0xio Labs",
     "name": "0xio DEX",
     "description": "Privacy-preserving decentralized exchange with concentrated liquidity (CLMM) and OCT-wOCT bridge.",
-    "categories": ["Defi"],
+    "categories": [
+      "Defi"
+    ],
     "status": "Testnet",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://dex.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
-    "id": 10,
-    "publisher": "0xio Labs",
-    "name": "Atlas",
-    "description": "High-performance blockchain visualization and analytics platform for Octra Network.",
-    "categories": ["Tooling", "Infrastructure"],
-    "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
-    "link": "https://atlas.0xio.xyz",
-    "twitter": "https://x.com/0xio_xyz"
-  },
-  {
-    "id": 11,
+    "id": 9,
     "publisher": "0xio Labs",
     "name": "0xio Desktop",
     "description": "Native desktop wallet powered by Tauri and Rust. macOS (Apple Silicon) and Windows. Native crypto backend with AI contract assistant.",
-    "categories": ["Wallet"],
+    "categories": [
+      "Wallet"
+    ],
     "status": "Live",
     "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
     "link": "https://alpha.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
-    "id": 12,
+    "id": 10,
     "publisher": "The SpectrumX",
     "name": "Spectrum NFT",
     "description": "Building the first NFT marketplace on Octra's encrypted network. Uses the SNS-1 standard with on-chain metadata and royalties.",
-    "categories": ["NFT"],
+    "categories": [
+      "NFT"
+    ],
     "status": "Live",
     "logoUrl": "",
     "link": "",
     "twitter": "https://x.com/The_SpectrumX"
   },
   {
-    "id": 13,
+    "id": 11,
     "publisher": "Euint Labs",
     "name": "Biont Network",
     "description": "Autonomous on-chain entities. Each Biont is its own smart contract with fully on-chain generative SVG identity.",
-    "categories": ["NFT", "Infrastructure"],
+    "categories": [
+      "NFT",
+      "Infrastructure"
+    ],
     "status": "Live",
     "logoUrl": "",
     "link": "https://biont.network",
     "twitter": ""
+  },
+  {
+    "id": 12,
+    "publisher": "0xio Labs",
+    "name": "0xio Bridge",
+    "description": "Bridge OCT between Octra Network and Ethereum. Lock OCT to mint wOCT, or burn wOCT to unlock OCT.",
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "status": "alpha",
+    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "link": "https://bridge.0xio.xyz",
+    "twitter": "https://x.com/0xio_xyz"
+  },
+  {
+    "id": 13,
+    "publisher": "0xio Labs",
+    "name": "0xio PVAC",
+    "description": "PVAC-HFHE privacy primitives for building privacy-aware dApps on Octra. FHE encryption, range proofs, cipher arithmetic.",
+    "categories": [
+      "Tooling"
+    ],
+    "status": "Live",
+    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "link": "https://www.npmjs.com/package/@0xio/pvac",
+    "twitter": "https://x.com/0xio_xyz"
   }
 ]
