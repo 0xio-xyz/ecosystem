@@ -9,7 +9,7 @@
       "Tooling"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://chromewebstore.google.com/detail/0xio-wallet/anknhjilldkeelailocijnfibefmepcc",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -23,7 +23,7 @@
       "Infrastructure"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/octrascan.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/octrascan/octrascan.png",
     "link": "https://octrascan.io",
     "twitter": "https://x.com/octrascan"
   },
@@ -37,7 +37,7 @@
       "Tooling"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/Octra.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/Octra/Oct_Public.svg",
     "link": "https://github.com/octra-labs",
     "twitter": "https://x.com/octralabs"
   },
@@ -50,7 +50,7 @@
       "Tooling"
     ],
     "status": "Archived",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://github.com/0xio-xyz/Legacy/tree/main/Recovery-Tools",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -63,7 +63,7 @@
       "Tooling"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://t.me/NullXio_bot",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -76,7 +76,7 @@
       "Wallet"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://alpha.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -89,7 +89,7 @@
       "Tooling"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://www.npmjs.com/package/@0xio/sdk",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -102,7 +102,7 @@
       "Defi"
     ],
     "status": "Testnet",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://dex.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -115,7 +115,7 @@
       "Wallet"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://alpha.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -156,7 +156,7 @@
       "Infrastructure"
     ],
     "status": "alpha",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://bridge.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
   },
@@ -169,8 +169,21 @@
       "Tooling"
     ],
     "status": "Live",
-    "logoUrl": "https://ivory-realistic-dingo-449.mypinata.cloud/ipfs/bafybeic5h373h25vvy443ni7b5ara5vj6u3ctha4oqqktqtse63nzrnwxi/0xio.png",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://www.npmjs.com/package/@0xio/pvac",
     "twitter": "https://x.com/0xio_xyz"
+  },
+  {
+    "id": 14,
+    "publisher": "Euint Labs",
+    "name": "Euints",
+    "description": "Living, fully on-chain generative collections on Octra. Each piece is a small program, hosted in its own Octra circle, that renders itself live from its on-chain seed. No picture is stored anywhere. The art is the program, and it is alive.",
+    "categories": [
+      "NFT"
+    ],
+    "status": "Live",
+    "logoUrl": "",
+    "link": "https://euints.com",
+    "twitter": "https://x.com/euints"
   }
 ]
