@@ -121,16 +121,16 @@
   },
   {
     "id": 10,
-    "publisher": "The SpectrumX",
-    "name": "Spectrum NFT",
-    "description": "Building the first NFT marketplace on Octra's encrypted network. Uses the SNS-1 standard with on-chain metadata and royalties.",
+    "publisher": "Xpectrum",
+    "name": "Xpectrum",
+    "description": "NFT marketplace and creator launchpad on Octra. Fixed-price listings, offers, sealed, Dutch and rising auctions, and permissionless collection launches. Live on mainnet.",
     "categories": [
       "NFT"
     ],
     "status": "Live",
-    "logoUrl": "",
-    "link": "",
-    "twitter": "https://x.com/The_SpectrumX"
+    "logoUrl": "https://app.xpectrum.xyz/logo.png",
+    "link": "https://app.xpectrum.xyz",
+    "twitter": "https://x.com/xpectrum_xyz"
   },
   {
     "id": 11,
