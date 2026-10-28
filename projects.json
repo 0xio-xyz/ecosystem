@@ -77,7 +77,7 @@
     ],
     "status": "Live",
     "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
-    "link": "https://alpha.0xio.xyz",
+    "link": "https://0xio.xyz/install",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
@@ -116,7 +116,7 @@
     ],
     "status": "Live",
     "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
-    "link": "https://alpha.0xio.xyz",
+    "link": "https://0xio.xyz/install",
     "twitter": "https://x.com/0xio_xyz"
   },
   {
@@ -141,7 +141,7 @@
       "NFT",
       "Infrastructure"
     ],
-    "status": "Live",
+    "status": "Archived",
     "logoUrl": "",
     "link": "https://biont.network",
     "twitter": ""
@@ -155,7 +155,7 @@
       "DeFi",
       "Infrastructure"
     ],
-    "status": "alpha",
+    "status": "Beta",
     "logoUrl": "https://cdn.jsdelivr.net/gh/0xio-xyz/Token-lists@main/logos/0xio/icon512.png",
     "link": "https://bridge.0xio.xyz",
     "twitter": "https://x.com/0xio_xyz"
